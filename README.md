@@ -36,8 +36,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
 
 ### 🖼️ Creative Tools
-![Photoshop](https://img.shields.io/badge/Photoshop-333333?style=flat&logo=adobephotoshop)
-![Lightroom](https://img.shields.io/badge/Lightroom-333333?style=flat&logo=adobelightroom)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-333333?style=flat&logo=adobephotoshop)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-333333?style=flat&logo=adobelightroom)
 ![Canva](https://img.shields.io/badge/Canva-333333?style=flat&logo=canva)
 
 ---
