@@ -54,10 +54,10 @@
   <a href="https://github.com/AmanROY767">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github">
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/aman-anand-bb8aaa232">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.amananandroy767@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail">
   </a>
 </p>
