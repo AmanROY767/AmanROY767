@@ -13,8 +13,8 @@
 
 - 👨‍💻 I love building projects and learning new things.
 - 💼 Interested in **Web Development**, **Backend Services**, and **Data Structures & Algorithms**.
-- 🌍 Based in **India**.
-
+- 🌍 Based in **India** .
+- 
 ---
 
 ## 💻 Tech Stack
