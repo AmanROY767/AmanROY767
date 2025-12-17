@@ -32,9 +32,7 @@
 
 ### 🧠 Backend & DevTools
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-333333?style=flat&logo=express)
 ![SQL](https://img.shields.io/badge/SQL-333333?style=flat&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
 
