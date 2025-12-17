@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Aman Anand**
 ### 💻 Aspiring Full Stack Developer | Problem Solver | Learner
 
-🔭 I’m currently working on enhancing my skills in software development and building real-world applications using modern tech stacks.
+🔭 I’m currently enhancing my skills in Full-Stack Software Development by building real-world applications using modern tech stacks.
 
 🌱 I’m learning new technologies and improving my ability to solve problems and build projects that make an impact.
 
