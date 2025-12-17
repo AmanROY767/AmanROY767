@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Aman Anand**
-### 💻 Aspiring Software Developer | Problem Solver | Learner
+### 💻 Aspiring Full Stack Developer | Problem Solver | Learner
 
 🔭 I’m currently working on enhancing my skills in software development and building real-world applications using modern tech stacks.
 
@@ -38,6 +38,7 @@
 ### 🖼️ Creative Tools
 ![Photoshop](https://img.shields.io/badge/Photoshop-333333?style=flat&logo=adobephotoshop)
 ![Lightroom](https://img.shields.io/badge/Lightroom-333333?style=flat&logo=adobelightroom)
+![Canva](https://img.shields.io/badge/Canva-333333?style=flat&logo=canva)
 
 ---
 
