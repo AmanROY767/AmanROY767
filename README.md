@@ -36,9 +36,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
 
 ### 🖼️ Creative Tools
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-333333?style=flat&logo=adobephotoshop)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-333333?style=flat&logo=adobelightroom)
-![Canva](https://img.shields.io/badge/Canva-333333?style=flat&logo=canva)
+### 🖼️ Creative Tools
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
