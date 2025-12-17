@@ -12,7 +12,7 @@
 ## 🧠 About Me
 
 - 👨‍💻 I love building projects and learning new things.
-- 💼 Interested in **Web Development**, **Backend Services**, and **Data Structures & Algorithms**.
+- 💼 Interested in **Web Development**, **Backend Services**, and **Software Engineering.**.
 - 🌍 Based in **India**.
 ---
 
